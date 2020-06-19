@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1580697830 source:/home/razing/Bureau/Projet_Moulin/Projet_Eclipse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Phase_Placemet.h"
+	"PHASE_JEU.h"
+	"HEU_H_M1.h"
+	"IA.h"
+	"ACCEUIL.h"
+
+1580696932 /home/razing/Bureau/Projet_Moulin/Phase_Placemet.h
+
+1580697556 /home/razing/Bureau/Projet_Moulin/PHASE_JEU.h
+
+1580697872 /home/razing/Bureau/Projet_Moulin/HEU_H_M1.h
+
+1580697941 /home/razing/Bureau/Projet_Moulin/IA.h
+
+1580698154 /home/razing/Bureau/Projet_Moulin/ACCEUIL.h
+
